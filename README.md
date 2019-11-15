@@ -4,4 +4,5 @@
 #### Paper: Tzeng_Adversarial_Discriminative_Domain_CVPR_2017 link:https://arxiv.org/abs/1702.05464
 #### keras-adda-master   Author link: https://github.com/jinxiu1983/keras-adda
 this method have two Discriminators to train target encoder ,but dosn't have any measure to fit domain classfier
+I modify some source data and target data 
 #### pytorch-adda-master Author link: https://github.com/corenel/pytorch-adda
