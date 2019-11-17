@@ -7,3 +7,4 @@ this method have two Discriminators to train target encoder ,but dosn't have any
 I modify some source data and target data,cause author's github set mnist as source domain,but in fact author set svhn as source domain in code.
 * my hackmd note link:https://hackmd.io/RODIO3XWQ_6m8OtBHee_lA
 #### pytorch-adda-master Author link: https://github.com/corenel/pytorch-adda
+* my explanation link:https://github.com/Jeff860530/ADDA/blob/master/pytorch_adda/pytorch-adda-master/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pptx
